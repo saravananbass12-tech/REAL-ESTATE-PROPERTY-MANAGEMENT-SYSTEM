@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1793285096 source:e:\real estate property management system\main.c
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<windows.h>
+
