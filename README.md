@@ -394,27 +394,27 @@ Add your actual console screenshots to the `Screenshot` folder in your repositor
 
 ### 1. Main Menu
 
-![Real Estate Property Management System Main Menu](Screenshot/main_menu.png)
+![Real Estate Property Management System Main Menu](Screenshot/1.png)
 
 ### 2. Add New Property
 
-![Add New Property](Screenshot/add_property.png)
+![Add New Property](Screenshot/add_2.png)
 
 ### 3. Property List
 
-![Available Property List](Screenshot/property_list.png)
+![Available Property List](Screenshot/3.png)
 
 ### 4. Sold Properties
 
-![Sold Properties](Screenshot/sold_properties.png)
+![Sold Properties](Screenshot/4.png)
 
 ### 5. Search Property
 
-![Search Property](Screenshot/search_property.png)
+![Search Property](Screenshot/5.png)
 
 ### 6. System Report
 
-![Property Management System Report](Screenshot/system_report.png)
+![Property Management System Report](Screenshot/6.png)
 
 **Important:** The image links will work only after the corresponding image files have been uploaded to the `Screenshot` folder. Use the exact filenames and capitalization from your repository.
 
