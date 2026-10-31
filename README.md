@@ -18,11 +18,6 @@ A C Language Based Console Application
 
 <br><br>
 
-![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge\&logo=c)
-![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge\&logo=windows)
-![Compiler](https://img.shields.io/badge/Compiler-GCC-green?style=for-the-badge)
-![Project](https://img.shields.io/badge/Project-Academic-purple?style=for-the-badge)
-
 </div>
 
 ---
@@ -211,7 +206,7 @@ REAL-ESTATE-PROPERTY-MANAGEMENT-SYSTEM/
 
 ### SARAVANAN D
 
-**BCA Graduate | Aspiring Software Developer**
+**BCA Graduate **
 
 [![GitHub](https://img.shields.io/badge/GitHub-saravananbass12--tech-black?style=for-the-badge\&logo=github)](https://github.com/saravananbass12-tech)
 
@@ -223,10 +218,3 @@ REAL-ESTATE-PROPERTY-MANAGEMENT-SYSTEM/
 
 ---
 
-<div align="center">
-
-### ⭐ If you like this project, please give it a Star!
-
-**THANK YOU FOR VISITING!**
-
-</div>
