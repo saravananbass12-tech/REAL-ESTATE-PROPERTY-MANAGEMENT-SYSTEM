@@ -83,7 +83,7 @@ The following features could be added in future versions:
 
 **Saravanan D**
 
-BCA Graduate | Aspiring Software Developer
+BCA Graduate 
 
 **GitHub:** [saravananbass12-tech](https://github.com/saravananbass12-tech)
 
