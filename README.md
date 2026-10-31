@@ -1,83 +1,137 @@
-# 🏠 Real Estate Property Management System
+<div align="center">
 
-<p align="center">
-  <img src="Screenshot/1.png" width="850" alt="Real Estate Property Management System">
-</p>
+# 🏡 REAL ESTATE PROPERTY MANAGEMENT SYSTEM
 
-<p align="center">
-  <b>A Console-Based Property Management Application Using C</b>
-</p>
+### Smart • Simple • Efficient Property Management
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-C-blue">
-  <img src="https://img.shields.io/badge/Platform-Windows-lightgrey">
-  <img src="https://img.shields.io/badge/Project-Management-green">
-</p>
+A C Language Based Console Application
 
----
+<br>
 
-## 📸 Project Screenshots
+<img src="Screenshot/1.png" width="90%" alt="Project Preview">
 
-<p align="center">
-  <img src="Screenshot/1.png" width="400">
-  <img src="Screenshot/2.png" width="400">
-</p>
+<br><br>
 
-<p align="center">
-  <img src="Screenshot/3.png" width="400">
-  <img src="Screenshot/4.png" width="400">
-</p>
+![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge\&logo=c)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge\&logo=windows)
+![Compiler](https://img.shields.io/badge/Compiler-GCC-green?style=for-the-badge)
+![Project](https://img.shields.io/badge/Project-Academic-purple?style=for-the-badge)
 
-<p align="center">
-  <img src="Screenshot/5.png" width="400">
-  <img src="Screenshot/6.png" width="400">
-</p>
-
-<p align="center">
-  <img src="Screenshot/7.png" width="400">
-</p>
+</div>
 
 ---
 
-## 📖 About the Project
+## 📌 About the Project
 
-The Real Estate Property Management System is a menu-driven application developed using the C programming language. It simplifies property registration, property price calculation, property searching, sales management, and report generation through a colorful console interface.
+The **Real Estate Property Management System** is a menu-driven C application designed to manage property registration, property details, sales, and price calculations.
+
+It provides an interactive console interface with colorful output, input validation, and automatic property price calculation.
+
+---
 
 ## ✨ Key Features
 
-* 🏠 Add New Property
-* 📋 View All Properties
-* 💰 Sell Property
-* ✅ View All Sold Properties
-* 🔍 Search Property
-* 📊 Generate Property Report
-* 🧮 Automatic Property Price Calculation
-* 🛡️ Mobile Number Validation
-* 🎨 Colorful Console Interface
+| Feature                  | Description                             |
+| :----------------------- | :-------------------------------------- |
+| 🏠 Property Registration | Add new properties with owner details   |
+| 📋 Property Listing      | View all available properties           |
+| 💰 Property Sales        | Mark properties as sold                 |
+| ✅ Sold Properties        | Display sold property details           |
+| 🔍 Property Search       | Search using unique property ID         |
+| 🧮 Price Calculation     | Automatically calculate property prices |
+| 📊 System Report         | Generate property statistics            |
+| 🎨 Colorful Interface    | Attractive console-based design         |
 
-## 🛠️ Technologies Used
+---
 
-* C Programming
-* GCC Compiler
-* Code::Blocks
-* Standard C Library
-* Windows Console API
+## 📸 Application Preview
 
-## ⚙️ Installation
+<div align="center">
 
-### Clone Repository
+### 01 — Main Application
+
+<img src="Screenshot/1.png" width="85%">
+
+### 02 — Property Management
+
+<img src="Screenshot/2.png" width="85%">
+
+### 03 — Property Registration
+
+<img src="Screenshot/3.png" width="85%">
+
+### 04 — Property Details
+
+<img src="Screenshot/4.png" width="85%">
+
+### 05 — Property Search
+
+<img src="Screenshot/5.png" width="85%">
+
+### 06 — Property Sales
+
+<img src="Screenshot/6.png" width="85%">
+
+### 07 — System Report
+
+<img src="Screenshot/7.png" width="85%">
+
+</div>
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+| Technology         | Usage            |
+| :----------------- | :--------------- |
+| C Programming      | Core Development |
+| GCC                | C Compiler       |
+| Code::Blocks       | IDE              |
+| Standard C Library | Input and Output |
+| Windows API        | Console Colors   |
+
+</div>
+
+---
+
+## 🧮 Property Price Calculation
+
+The application calculates property prices based on area, bedrooms, and location.
+
+| Location | Price per Sq. Ft. |
+| :------- | ----------------: |
+| City     |            ₹8,000 |
+| Suburb   |            ₹5,000 |
+| Village  |            ₹2,500 |
+
+**Calculation Formula**
+
+```text
+Base Price = (Area × Price per Sq.Ft.)
+             + (Bedrooms × 200000)
+
+Final Price = Base Price + 5% Additional Charge
+```
+
+---
+
+## ⚙️ Installation & Execution
+
+### Step 1 — Clone Repository
 
 ```bash
 git clone https://github.com/saravananbass12-tech/REAL-ESTATE-PROPERTY-MANAGEMENT-SYSTEM.git
 ```
 
-### Open Project
+### Step 2 — Open Project Folder
 
 ```bash
 cd REAL-ESTATE-PROPERTY-MANAGEMENT-SYSTEM
 ```
 
-### Compile
+### Step 3 — Compile C Program
 
 Replace `main.c` with your actual C source filename.
 
@@ -85,34 +139,88 @@ Replace `main.c` with your actual C source filename.
 gcc main.c -o real_estate
 ```
 
-### Run
+### Step 4 — Run Application
 
 ```bash
 real_estate.exe
 ```
 
-## 📊 Main Menu
+---
 
-| Option | Feature                  |
-| ------ | ------------------------ |
-| 1      | Add New Property         |
-| 2      | View All Properties      |
-| 3      | Sell Property            |
-| 4      | View All Sold Properties |
-| 5      | Search Property          |
-| 6      | Exit                     |
-| 7      | Generate Property Report |
+## 📋 Application Menu
 
-## 👨‍💻 Author
+```text
+       REAL ESTATE PROPERTY MANAGEMENT SYSTEM
 
-**Saravanan D**
+       1. Add New Property
+       2. View All Properties
+       3. Sell Property
+       4. View All Sold Properties
+       5. Search Property
+       6. Exit
+       7. Generate Property Report
 
-BCA Graduate | Aspiring Software Developer
-
-GitHub: [saravananbass12-tech](https://github.com/saravananbass12-tech)
+       Enter Your Choice:
+```
 
 ---
 
-<p align="center">
-  ⭐ If you like this project, give it a star!
-</p>
+## 📂 Project Structure
+
+```text
+REAL-ESTATE-PROPERTY-MANAGEMENT-SYSTEM/
+│
+├── Real Estate Property Management system/
+│   └── C Source Code
+│
+├── Screenshot/
+│   ├── 1.png
+│   ├── 2.png
+│   ├── 3.png
+│   ├── 4.png
+│   ├── 5.png
+│   ├── 6.png
+│   └── 7.png
+│
+└── README.md
+```
+
+---
+
+## 🚀 Future Enhancements
+
+* Database Connectivity (MySQL)
+* Permanent Property Storage
+* Admin Login System
+* Property Update and Delete
+* Advanced Property Search
+* Property Transaction History
+* Graphical User Interface
+
+---
+
+## 👨‍💻 Developer
+
+<div align="center">
+
+### SARAVANAN D
+
+**BCA Graduate | Aspiring Software Developer**
+
+[![GitHub](https://img.shields.io/badge/GitHub-saravananbass12--tech-black?style=for-the-badge\&logo=github)](https://github.com/saravananbass12-tech)
+
+**Project Repository**
+
+[REAL ESTATE PROPERTY MANAGEMENT SYSTEM](https://github.com/saravananbass12-tech/REAL-ESTATE-PROPERTY-MANAGEMENT-SYSTEM)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like this project, please give it a Star!
+
+**THANK YOU FOR VISITING!**
+
+</div>
