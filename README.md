@@ -1,92 +1,118 @@
 # 🏠 Real Estate Property Management System
 
-### A Console-Based Property Management Application Using C
----
+<p align="center">
+  <img src="Screenshot/1.png" width="850" alt="Real Estate Property Management System">
+</p>
 
-## 🎯 Project Objectives
+<p align="center">
+  <b>A Console-Based Property Management Application Using C</b>
+</p>
 
-* Simplify basic property registration and management.
-* Calculate property prices automatically.
-* Maintain property availability and sales status during a session.
-* Search for registered properties using unique property IDs.
-* Validate mobile numbers and location selections.
-* Generate reports showing registered, available, and sold properties.
-* Apply fundamental C programming concepts to a practical application.
-
----
----
-
-## 🛠️ Technology Stack
-
-| Technology          | Purpose                                           |
-| ------------------- | ------------------------------------------------- |
-| C Programming       | Application development                           |
-| GCC Compiler        | Compiling the C source code                       |
-| Code::Blocks        | Development environment                           |
-| Standard C Library  | Input, output, string handling, and formatting    |
-| Windows Console API | Console text colors on Windows                    |
-| ANSI Escape Codes   | Console colors on supported non-Windows terminals |
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C-blue">
+  <img src="https://img.shields.io/badge/Platform-Windows-lightgrey">
+  <img src="https://img.shields.io/badge/Project-Management-green">
+</p>
 
 ---
 
-## 📸 Screenshots
+## 📸 Project Screenshots
 
-Screenshots help users understand the application before downloading or running the source code.
+<p align="center">
+  <img src="Screenshot/1.png" width="400">
+  <img src="Screenshot/2.png" width="400">
+</p>
 
-Add your actual console screenshots to the `Screenshot` folder in your repository.
+<p align="center">
+  <img src="Screenshot/3.png" width="400">
+  <img src="Screenshot/4.png" width="400">
+</p>
 
-### 1. Main Menu
+<p align="center">
+  <img src="Screenshot/5.png" width="400">
+  <img src="Screenshot/6.png" width="400">
+</p>
 
-![Real Estate Property Management System Main Menu](Screenshot/1.png)
-
-### 2. Add New Property
-
-![Add New Property](Screenshot/add_2.png)
-
-### 3. Property List
-
-![Available Property List](Screenshot/3.png)
-
-### 4. Sold Properties
-
-![Sold Properties](Screenshot/4.png)
-
-### 5. Search Property
-
-![Search Property](Screenshot/5.png)
-
-### 6. System Report
-
-![Property Management System Report](Screenshot/6.png)
-
-**Important:** The image links will work only after the corresponding image files have been uploaded to the `Screenshot` folder. Use the exact filenames and capitalization from your repository.
+<p align="center">
+  <img src="Screenshot/7.png" width="400">
+</p>
 
 ---
 
-## 🚀 Future Enhancements
+## 📖 About the Project
 
-The following features could be added in future versions:
+The Real Estate Property Management System is a menu-driven application developed using the C programming language. It simplifies property registration, property price calculation, property searching, sales management, and report generation through a colorful console interface.
 
-* Integrate a MySQL or SQLite database.
-* Save property records permanently using file handling.
-* Add property update and deletion features.
-* Introduce owner and administrator login functionality.
-* Add advanced property search by location, price, and area.
-* Generate downloadable property reports.
-* Add property images and detailed descriptions.
-* Develop a graphical user interface or web application.
-* Add transaction history and sales reports.
+## ✨ Key Features
 
----
+* 🏠 Add New Property
+* 📋 View All Properties
+* 💰 Sell Property
+* ✅ View All Sold Properties
+* 🔍 Search Property
+* 📊 Generate Property Report
+* 🧮 Automatic Property Price Calculation
+* 🛡️ Mobile Number Validation
+* 🎨 Colorful Console Interface
+
+## 🛠️ Technologies Used
+
+* C Programming
+* GCC Compiler
+* Code::Blocks
+* Standard C Library
+* Windows Console API
+
+## ⚙️ Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/saravananbass12-tech/REAL-ESTATE-PROPERTY-MANAGEMENT-SYSTEM.git
+```
+
+### Open Project
+
+```bash
+cd REAL-ESTATE-PROPERTY-MANAGEMENT-SYSTEM
+```
+
+### Compile
+
+Replace `main.c` with your actual C source filename.
+
+```bash
+gcc main.c -o real_estate
+```
+
+### Run
+
+```bash
+real_estate.exe
+```
+
+## 📊 Main Menu
+
+| Option | Feature                  |
+| ------ | ------------------------ |
+| 1      | Add New Property         |
+| 2      | View All Properties      |
+| 3      | Sell Property            |
+| 4      | View All Sold Properties |
+| 5      | Search Property          |
+| 6      | Exit                     |
+| 7      | Generate Property Report |
 
 ## 👨‍💻 Author
 
 **Saravanan D**
 
-BCA Graduate 
+BCA Graduate | Aspiring Software Developer
 
-**GitHub:** [saravananbass12-tech](https://github.com/saravananbass12-tech)
-
-**Project Repository:** [Real Estate Property Management System](https://github.com/saravananbass12-tech/REAL-ESTATE-PROPERTY-MANAGEMENT-SYSTEM)
+GitHub: [saravananbass12-tech](https://github.com/saravananbass12-tech)
 
 ---
+
+<p align="center">
+  ⭐ If you like this project, give it a star!
+</p>
