@@ -2,6 +2,12 @@
 
 # 🏡 REAL ESTATE PROPERTY MANAGEMENT SYSTEM
 
+![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge\&logo=c)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge\&logo=windows)
+![Compiler](https://img.shields.io/badge/Compiler-GCC-green?style=for-the-badge)
+![Project](https://img.shields.io/badge/Project-Academic-purple?style=for-the-badge)
+
+
 ### Smart • Simple • Efficient Property Management
 
 A C Language Based Console Application
